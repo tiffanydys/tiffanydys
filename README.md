@@ -1,12 +1,8 @@
 # Hi there, I'm Tiffany - aka [tiffanydys][linkedin] 👋 
 ## I'm a Front-End Developer! ✌🏻
 - 💻 Microsoft Azure Certified (Azure Fundamentals)
-- 🌱 I’m continuously learning stuff one at a time
-- 👀 Currently interested in React JS and Microsoft Azure
-- 👯 I’m looking to collaborate with other open source apps/programs
-- 🥅 2022 Goals: Learn more about Azure, React, NextJS and Three.js
-- ⚡ Fun fact: I love to play musical instruments (guitar, bass, drums)
-- 😻 I have two cats and I love them to bits
+- I'm a developer for a Web3 game - [Arcadian Reclaim][arcadianreclaim]
+- Part of [Team Project Dignity][projectdignity] (Check us out!)
 
 ### Connect with me:
 
@@ -52,3 +48,5 @@
 [github]: https://github.com/tiffanydys
 [instagram]: https://instagram.com/tiffanydys
 [linkedin]: https://linkedin.com/in/tiffanydys
+[arcadianreclaim]: https://www.dignity-games.com/
+[projectdignity]: https://docs.dignity-games.com/
